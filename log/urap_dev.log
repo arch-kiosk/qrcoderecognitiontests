@@ -1,0 +1,645 @@
+>[testrecognitionmethods.INFO at 2019-07-17 21:46:23,785]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-17 21:46:23,885]: opened code file DSC_1356.tif
+>[imagemanipulationstrategy.DEBUG at 2019-07-17 21:46:23,885]: no cache image for ['DSC_1356.tif', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2019-07-17 21:46:23,895]: no cache image for ['DSC_1356.tif', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2019-07-17 21:46:23,935]: QRCode in image DSC_1356.tif could not be decoded.
+>[manipulationcache.DEBUG at 2019-07-17 21:46:23,935]: Used cached image ['DSC_1356.tif']
+>[manipulationcache.DEBUG at 2019-07-17 21:46:23,935]: Used cached image ['DSC_1356.tif', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2019-07-17 21:46:23,935]: no cache image for ['DSC_1356.tif', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2019-07-17 21:46:23,955]: no cache image for ['DSC_1356.tif', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2019-07-17 21:46:24,005]: Success for QRCode in image DSC_1356.tif: FI-011-2
+>[testrecognitionmethods.INFO at 2020-07-22 22:10:52,441]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,451]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,451]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,454]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:10:52,467]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,467]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,467]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,467]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,475]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:10:52,475]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,475]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,476]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:10:52,477]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[qrcodetester.DEBUG at 2020-07-22 22:10:52,477]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,477]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,477]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 22:10:52,477]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:10:52,478]: QRCode in image DSC_0016.NEF could not be decoded.
+>[testrecognitionmethods.INFO at 2020-07-22 22:11:51,296]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,309]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,309]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,310]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,310]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,310]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,311]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,311]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,311]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,312]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,312]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,312]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,313]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,313]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,313]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,313]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,313]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,314]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,314]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,315]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,315]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,315]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:11:51,316]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:11:51,316]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:11:51,316]: QRCode in image DSC_0016.NEF could not be decoded.
+>[testrecognitionmethods.INFO at 2020-07-22 22:12:18,880]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,882]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,882]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,883]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,883]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,883]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,883]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,883]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,884]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,884]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,884]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,884]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,885]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,885]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,885]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,886]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,886]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,886]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,886]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,887]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,887]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,887]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,887]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,887]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,888]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,888]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,888]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,888]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,889]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,889]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,889]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,889]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,889]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,889]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,889]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,889]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,889]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,890]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,890]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,890]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,890]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,890]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,890]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,890]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,891]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,891]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,891]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,891]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,892]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,892]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,892]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[manipulationcache.DEBUG at 2020-07-22 22:12:18,892]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:12:18,892]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:12:18,892]: QRCode in image DSC_0016.NEF could not be decoded.
+>[testrecognitionmethods.INFO at 2020-07-22 22:14:04,944]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,946]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,946]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,947]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,947]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,947]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,948]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,948]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,948]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,948]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,948]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,948]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,949]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,949]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,949]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,950]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,950]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,950]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,951]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,951]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,951]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,951]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,952]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,952]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,952]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,952]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,952]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,953]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,953]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,953]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,953]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,953]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,953]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,953]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,953]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,953]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,954]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,954]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,954]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,954]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,954]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,954]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,954]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,954]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,954]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,955]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,955]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,955]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,955]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,955]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,956]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,956]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,956]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,956]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,956]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,957]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,957]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,957]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,957]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,957]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,957]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,957]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,957]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,958]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,958]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,958]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,958]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,958]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,958]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,958]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,958]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,959]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,959]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,959]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,959]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,959]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,959]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,959]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,959]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,959]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,960]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,960]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,960]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,960]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,960]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,960]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,960]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,960]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,961]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,961]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,961]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,961]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,961]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,961]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,961]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,962]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,962]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,962]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,962]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,962]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,962]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,962]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,962]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,963]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,963]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,963]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,963]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,963]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,963]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,963]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,963]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,964]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,964]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,964]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,964]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,964]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,964]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,965]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,965]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,965]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,965]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,965]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,965]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,966]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,966]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,966]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,966]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,966]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,967]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,967]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,967]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,967]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,967]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,967]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,967]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,968]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,968]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,968]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,968]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,968]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,968]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:14:04,969]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:14:04,969]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:14:04,969]: QRCode in image DSC_0016.NEF could not be decoded.
+>[testrecognitionmethods.INFO at 2020-07-22 22:23:01,479]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:23:47,008]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:24:32,227]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:37,854]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:43,991]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:43,991]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:43,992]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:44,708]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:44,709]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:44,711]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:45,196]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:45,196]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:45,199]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:45,845]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:45,846]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:45,848]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:46,519]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:46,520]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:46,522]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:47,407]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:47,408]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:47,410]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:48,057]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:48,057]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:48,058]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:48,553]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:48,553]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:48,554]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:48,554]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:48,996]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:48,996]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:48,997]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:48,998]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:49,389]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:49,389]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:49,390]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:49,391]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,943]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,943]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,943]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,944]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,944]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,944]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,945]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,945]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,945]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,945]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,945]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,946]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,946]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,946]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,946]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,947]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,947]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,947]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,947]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.2, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,947]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,948]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,948]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,948]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,948]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,948]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,949]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,949]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,949]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,949]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,950]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,950]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,950]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,950]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,950]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,951]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,951]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,951]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,951]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,951]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,952]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,952]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,952]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,952]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,953]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,953]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,953]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,953]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,953]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,954]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,954]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,954]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,954]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,954]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,954]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,955]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,955]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,955]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,955]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,956]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,956]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,956]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,956]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,957]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,957]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,957]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,957]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,958]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,958]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,958]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,958]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,959]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,959]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,959]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,959]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,960]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,960]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,960]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,960]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,960]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,961]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,961]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,961]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,961]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,961]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,962]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,962]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,962]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,962]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,963]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,963]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,963]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,963]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,964]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,964]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,964]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,964]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,965]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,965]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,965]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,966]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,966]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,966]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,967]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,967]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,967]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,967]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,968]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,968]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,968]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,968]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,969]: QRCode in image DSC_0016.NEF could not be decoded.
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,969]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:25:58,969]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:25:58,969]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.7, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[qrcodetester.DEBUG at 2020-07-22 22:25:58,970]: QRCode in image DSC_0016.NEF could not be decoded.
+>[testrecognitionmethods.INFO at 2020-07-22 22:27:21,273]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:27:21,276]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:27:21,276]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[testrecognitionmethods.INFO at 2020-07-22 22:27:51,051]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:27:51,053]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:27:51,053]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[testrecognitionmethods.INFO at 2020-07-22 22:30:11,402]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,405]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,405]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,459]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,459]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,462]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,462]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,466]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,466]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,470]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,471]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,475]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,475]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,479]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,480]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[manipulationcache.DEBUG at 2020-07-22 22:30:11,485]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:30:11,485]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[testrecognitionmethods.INFO at 2020-07-22 22:34:32,204]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:32,241]: opened code file DSC_0016.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:32,241]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:32,766]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:32,766]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:33,274]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:33,275]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:33,742]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:33,742]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:34,237]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:34,238]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:34,728]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:34,728]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:35,218]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:35,218]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:35,711]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:35,711]: no cache image for ['DSC_0016.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,226]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,227]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,240]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,240]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,244]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,244]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,248]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,248]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,251]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,251]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,255]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,255]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,258]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,258]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[manipulationcache.DEBUG at 2020-07-22 22:34:36,268]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:34:36,268]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[testrecognitionmethods.INFO at 2020-07-22 22:36:15,816]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,818]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,818]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,841]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,841]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,845]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,845]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,848]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,849]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,852]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,853]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,856]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,856]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,859]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,860]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:15,863]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,863]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,896]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:15,897]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:16,360]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:16,360]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 31]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:16,814]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:16,814]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 27]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:17,331]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:17,331]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 25]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:17,821]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:17,821]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 23]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:18,299]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:18,299]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 21]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:18,790]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:18,790]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 17]
+>[manipulationcache.DEBUG at 2020-07-22 22:36:19,283]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:36:19,284]: no cache image for ['jpeg.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[testrecognitionmethods.INFO at 2020-07-22 22:38:15,957]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,959]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,959]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,959]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,984]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,984]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,984]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,987]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,987]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,987]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,987]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,990]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,990]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,990]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,993]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,993]: no cache image for ['DSC_0016.NEF', 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,996]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:15,996]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:15,996]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 13]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:16,000]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:16,000]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:16,000]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:16,000]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 33]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:16,034]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:16,034]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:16,040]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 22:38:40,294]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,296]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,297]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,297]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,308]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,308]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,308]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,309]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,311]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,311]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,311]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,314]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,314]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 22:38:40,314]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,347]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,347]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:38:40,349]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 22:41:21,037]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:21,039]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:21,039]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:21,039]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 22:41:43,237]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:43,239]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:43,239]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:41:43,239]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 22:42:03,257]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,259]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,259]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,259]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,270]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,270]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,270]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,270]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,271]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,271]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,271]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,273]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,273]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,273]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,282]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,282]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,282]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,285]: Used cached image ['jpeg.jpg']
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,285]: Used cached image ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,285]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,285]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:03,288]: Used cached image ['jpeg.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,288]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:03,288]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[testrecognitionmethods.INFO at 2020-07-22 22:42:19,479]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,481]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,481]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,481]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,492]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,492]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,492]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,492]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,494]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,494]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,495]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,496]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,496]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 22:42:19,496]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,528]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,529]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:42:19,532]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 22:53:06,398]: Logging....
+>[testrecognitionmethods.INFO at 2020-07-22 22:53:50,499]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,504]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,504]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,504]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,515]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,515]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,515]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,515]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,518]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,518]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,518]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,521]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,521]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 22:53:50,521]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,651]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,651]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 22:53:50,654]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[testrecognitionmethods.INFO at 2020-07-22 23:05:32,228]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,231]: opened code file DSC_0016.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,231]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,231]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,243]: Used cached image ['DSC_0016.jpg']
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,243]: Used cached image ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,243]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,243]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,246]: Used cached image ['DSC_0016.jpg']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,246]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,246]: no cache image for ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,249]: Used cached image ['DSC_0016.jpg']
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,249]: Used cached image ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,249]: Used cached image ['DSC_0016.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,251]: opened code file DSC_0016.NEF
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,251]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,251]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,254]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,254]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,254]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,254]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2BlurManipulation', 'blur', 7, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,256]: Used cached image ['DSC_0016.NEF']
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,256]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,256]: no cache image for ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.5, 'CV2AdaptiveThresholdManipulation', 'block_size', 73]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,258]: Used cached image ['DSC_0016.NEF']
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,258]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3]
+>[manipulationcache.DEBUG at 2020-07-22 23:05:32,258]: Used cached image ['DSC_0016.NEF', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,381]: opened code file DSC_0016.tif
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,381]: no cache image for ['DSC_0016.tif', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,383]: no cache image for ['DSC_0016.tif', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,457]: opened code file jpeg.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,457]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3]
+>[imagemanipulationstrategy.DEBUG at 2020-07-22 23:05:32,458]: no cache image for ['jpeg.jpg', 'CV2ScaleManipulation', 'scale', 0.3, 'CV2AdaptiveThresholdManipulation', 'block_size', 63]

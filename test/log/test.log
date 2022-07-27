@@ -1,0 +1,198 @@
+>[testhelpers.INFO at 2022-01-17 17:10:17,675]: Logging....
+>[testhelpers.INFO at 2022-01-17 18:09:30,057]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:09:31,215]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:09:31,215]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:09:31,215]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:09:31,215]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:09:31,215]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:09:31,219]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:09:32,121]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:09:32,121]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:09:32,121]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:09:32,121]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:09:32,121]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:09:32,125]: Logging....
+>[testhelpers.INFO at 2022-01-17 18:43:10,881]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:43:12,333]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:43:12,333]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:43:12,333]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:43:12,333]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:43:12,333]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:43:12,339]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:43:13,710]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:43:13,710]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:43:13,711]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:43:13,711]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:43:13,711]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:43:13,715]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:43:15,534]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:43:15,534]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:43:15,534]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:43:15,534]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:43:15,534]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:43:15,543]: Logging....
+>[testhelpers.INFO at 2022-01-17 18:59:39,101]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:59:39,634]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:59:39,634]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:59:39,634]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:59:39,634]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:59:39,634]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:59:39,634]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:59:40,151]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:59:40,151]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:59:40,151]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:59:40,151]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:59:40,151]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:59:40,151]: Logging....
+>[sync_config.WARNING at 2022-01-17 18:59:40,674]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:59:40,674]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:59:40,674]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:59:40,674]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:59:40,674]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-17 18:59:40,674]: Logging....
+>[testhelpers.INFO at 2022-01-18 11:12:30,594]: Logging....
+>[testhelpers.INFO at 2022-01-18 11:49:20,449]: Logging....
+>[sync_config.WARNING at 2022-01-18 11:49:21,792]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:21,792]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-18 11:49:21,792]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:21,792]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:21,792]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-18 11:49:21,792]: Logging....
+>[sync_config.WARNING at 2022-01-18 11:49:23,098]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:23,098]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-18 11:49:23,098]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:23,098]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:23,098]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-18 11:49:23,098]: Logging....
+>[sync_config.WARNING at 2022-01-18 11:49:24,515]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:24,515]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-18 11:49:24,515]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:24,515]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:24,515]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-18 11:49:24,515]: Logging....
+>[sync_config.WARNING at 2022-01-18 11:49:25,849]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:25,849]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-18 11:49:25,849]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:25,849]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:25,849]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-18 11:49:25,849]: Logging....
+>[sync_config.WARNING at 2022-01-18 11:49:25,918]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:25,918]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:25,918]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:25,918]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-22 22:33:13,592]: Logging....
+>[sync_config.WARNING at 2022-01-22 22:33:15,218]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:15,218]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-22 22:33:15,218]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:15,234]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:15,234]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-22 22:33:15,234]: Logging....
+>[sync_config.WARNING at 2022-01-22 22:33:16,340]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:16,340]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-22 22:33:16,340]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:16,340]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:16,340]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-22 22:33:16,340]: Logging....
+>[sync_config.WARNING at 2022-01-22 22:33:17,510]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:17,510]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-22 22:33:17,510]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:17,510]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:17,510]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-22 22:33:17,518]: Logging....
+>[sync_config.WARNING at 2022-01-22 22:33:18,800]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:18,800]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-22 22:33:18,800]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:18,800]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:18,800]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-01-22 22:33:18,815]: Logging....
+>[sync_config.WARNING at 2022-01-22 22:33:18,900]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:18,915]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:18,915]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:18,915]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-03 00:08:01,002]: Logging....
+>[sync_config.WARNING at 2022-07-03 00:08:01,570]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:01,570]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-03 00:08:01,570]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:01,570]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:01,570]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-03 00:08:01,577]: Logging....
+>[sync_config.WARNING at 2022-07-03 00:08:02,177]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:02,177]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-03 00:08:02,177]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:02,177]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:02,177]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-03 00:08:02,188]: Logging....
+>[sync_config.WARNING at 2022-07-03 00:08:02,732]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:02,732]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-03 00:08:02,732]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:02,732]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:02,732]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-03 00:08:02,736]: Logging....
+>[sync_config.WARNING at 2022-07-03 00:08:03,414]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:03,414]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-03 00:08:03,414]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:03,414]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:03,414]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-03 00:08:03,414]: Logging....
+>[sync_config.WARNING at 2022-07-03 00:08:03,447]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:03,447]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:03,447]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:03,447]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 19:36:44,523]: Logging....
+>[sync_config.WARNING at 2022-07-05 19:36:45,124]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:45,124]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 19:36:45,124]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:45,124]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:45,124]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 19:36:45,124]: Logging....
+>[sync_config.WARNING at 2022-07-05 19:36:45,626]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:45,626]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 19:36:45,626]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:45,626]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:45,626]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 19:36:45,626]: Logging....
+>[sync_config.WARNING at 2022-07-05 19:36:46,143]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:46,143]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 19:36:46,143]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:46,143]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:46,143]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 19:36:46,143]: Logging....
+>[sync_config.WARNING at 2022-07-05 19:36:46,644]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:46,644]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 19:36:46,644]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:46,644]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:46,644]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 19:36:46,644]: Logging....
+>[sync_config.WARNING at 2022-07-05 19:36:46,675]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:46,675]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:46,675]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:46,675]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 22:36:39,060]: Logging....
+>[sync_config.WARNING at 2022-07-05 22:36:39,805]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:39,810]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 22:36:39,810]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:39,810]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:39,810]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 22:36:39,810]: Logging....
+>[sync_config.WARNING at 2022-07-05 22:36:40,569]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:40,569]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 22:36:40,569]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:40,569]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:40,569]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 22:36:40,573]: Logging....
+>[sync_config.WARNING at 2022-07-05 22:36:41,405]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:41,405]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 22:36:41,405]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:41,405]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:41,405]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 22:36:41,410]: Logging....
+>[sync_config.WARNING at 2022-07-05 22:36:42,087]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:42,087]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 22:36:42,087]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:42,087]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:42,087]: No sql script to build the file-identifier cache given!
+>[testhelpers.INFO at 2022-07-05 22:36:42,087]: Logging....
+>[sync_config.WARNING at 2022-07-05 22:36:42,125]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:42,125]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:42,125]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:42,125]: No sql script to build the file-identifier cache given!

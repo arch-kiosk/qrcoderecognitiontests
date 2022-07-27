@@ -1,0 +1,320 @@
+>[test_cv2qrcodethresholding.INFO at 2019-07-15 20:51:48,824]: Logging....
+>[test_cv2qrcodethresholding.DEBUG at 2019-07-15 20:51:48,826]: Yippieh. I did something.
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 11:23:25,161]: Logging....
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 11:23:54,518]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:23:54,706]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:23:54,706]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 64]
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 11:25:01,252]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:25:01,424]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:25:01,424]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 11:26:57,587]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:26:57,947]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:26:57,947]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 11:27:16,122]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:27:16,311]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 11:27:16,311]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 11:55:05,947]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 11:56:26,174]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 12:56:28,128]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 12:57:15,656]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:03:33,646]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:04:07,045]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:06:30,692]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:06:30,723]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:06:30,723]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:08:07,772]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:08:07,787]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:08:07,787]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:10:00,600]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:10:00,616]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:10:00,616]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:11:05,137]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:11:05,153]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:11:05,153]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:11:54,396]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:11:54,412]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:11:54,412]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:12:25,474]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:12:25,490]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:12:25,490]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:12:51,511]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:12:51,527]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:12:51,527]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:14:25,425]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:14:25,440]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:14:25,440]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:15:02,684]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:15:02,699]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:15:02,699]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:15:50,893]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:15:50,909]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:15:50,909]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:18:10,629]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:18:10,644]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:18:10,644]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:18:33,022]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:18:33,038]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:18:33,038]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:19:22,554]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:19:22,569]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:19:22,569]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:21:08,105]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:21:08,121]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:21:08,121]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 13:22:09,282]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 13:22:09,688]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 13:22:09,688]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 13:22:55,792]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 13:22:55,964]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 13:22:55,964]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:23:08,888]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:23:08,903]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:23:08,903]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:36:16,584]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:36:16,615]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:36:16,615]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:37:25,443]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:37:25,459]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:37:25,459]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:46:13,723]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:46:13,739]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:46:13,739]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:46:30,367]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:46:30,383]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:46:30,383]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:47:45,059]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:47:45,074]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:47:45,074]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:49:14,347]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:49:14,363]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:49:14,363]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:50:40,910]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:50:40,925]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:50:40,925]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:54:11,781]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:54:11,796]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:54:11,796]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 13:54:53,181]: Logging....
+>[sync_config.WARNING at 2019-07-16 13:54:53,196]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 13:54:53,196]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 20:07:56,187]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 20:07:56,377]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 20:07:56,377]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 20:07:56,893]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 20:07:56,893]: Logging....
+>[sync_config.WARNING at 2019-07-16 20:07:56,919]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:07:56,919]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:07:56,920]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2019-07-16 20:07:56,920]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,006]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,006]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,006]: Used cached image ['scale', 0.4, 'blur', 7]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,006]: Used cached image ['scale', 0.4, 'blur', 7]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,011]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,011]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,011]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:07:57,011]: Used cached image ['scale', 0.5]
+>[sync_config.WARNING at 2019-07-16 20:07:57,033]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:07:57,033]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:07:57,033]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2019-07-16 20:07:57,033]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_cv2qrcodethresholding.INFO at 2019-07-16 20:27:27,212]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 20:27:27,390]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2019-07-16 20:27:27,390]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 20:27:27,916]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2019-07-16 20:27:27,916]: Logging....
+>[sync_config.WARNING at 2019-07-16 20:27:27,937]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:27:27,937]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:27:27,937]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2019-07-16 20:27:27,937]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,031]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,031]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,032]: Used cached image ['scale', 0.4, 'blur', 7]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,032]: Used cached image ['scale', 0.4, 'blur', 7]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,035]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,035]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,036]: Used cached image ['scale', 0.5]
+>[manipulationcache.DEBUG at 2019-07-16 20:27:28,036]: Used cached image ['scale', 0.5]
+>[sync_config.WARNING at 2019-07-16 20:27:28,060]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:27:28,060]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2019-07-16 20:27:28,060]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2019-07-16 20:27:28,060]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 10:42:05,606]: Logging....
+>[sync_config.WARNING at 2020-12-28 10:42:05,630]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2020-12-28 10:42:05,630]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2020-12-28 10:42:05,630]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2020-12-28 10:42:05,630]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2020-12-28 10:42:05,630]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2020-12-28 10:45:46,285]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 10:45:46,417]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 10:45:46,417]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 10:45:46,802]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 10:45:46,802]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,802]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,802]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,818]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,818]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,834]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,834]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,856]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 10:45:46,856]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2020-12-28 11:36:29,481]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 11:36:29,639]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 11:36:29,639]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 11:36:29,984]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 11:36:29,984]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:29,984]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:29,984]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,008]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,008]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,023]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,023]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,039]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:36:30,039]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2020-12-28 11:46:51,205]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 11:46:51,305]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 11:46:51,305]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 11:46:51,614]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 11:46:51,614]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,614]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,614]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,630]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,630]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,645]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,645]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,674]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 11:46:51,674]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2020-12-28 13:43:15,427]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 13:43:15,543]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 13:43:15,543]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 13:43:15,844]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 13:43:15,844]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,844]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,844]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,859]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,859]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,875]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,875]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,897]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:43:15,897]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2020-12-28 13:56:50,976]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 13:56:51,092]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2020-12-28 13:56:51,092]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 13:56:51,410]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2020-12-28 13:56:51,410]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,410]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,410]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,430]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,430]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,445]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,445]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,461]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2020-12-28 13:56:51,461]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2021-01-10 15:50:37,789]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2021-01-10 15:50:37,921]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2021-01-10 15:50:37,921]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2021-01-10 15:50:38,279]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2021-01-10 15:50:38,279]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,287]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,287]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,297]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,297]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,312]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,312]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,328]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2021-01-10 15:50:38,328]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2022-01-16 16:21:56,753]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-16 16:21:56,873]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-16 16:21:56,873]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2022-01-16 16:21:57,189]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2022-01-16 16:21:57,189]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,205]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,205]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,237]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,237]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,258]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,258]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,274]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 16:21:57,274]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2022-01-16 21:37:18,084]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-16 21:37:18,207]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-16 21:37:18,207]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_imagemanipulationstrategyfactory.INFO at 2022-01-16 21:37:18,556]: Logging....
+>[test_imagemanipulationstrategyfactory.INFO at 2022-01-16 21:37:18,556]: Logging....
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,568]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,568]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,604]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,604]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,625]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,625]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,641]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[imagemanipulationstrategyfactory.ERROR at 2022-01-16 21:37:18,641]: ImageManipulationStrategyFactory._get_image_manipulation_config:  Key image_manipulation_config missing in config.
+>[test_cv2qrcodethresholding.INFO at 2022-01-17 18:43:07,884]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-17 18:43:08,253]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-17 18:43:08,253]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-01-17 18:43:10,866]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-17 18:43:10,866]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-17 18:43:10,866]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-17 18:43:10,866]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-17 18:43:10,866]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2022-01-18 11:49:17,807]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-18 11:49:18,095]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-18 11:49:18,095]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-01-18 11:49:20,434]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-18 11:49:20,434]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-18 11:49:20,434]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-18 11:49:20,434]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-18 11:49:20,434]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:18:17,316]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:18:17,448]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:18:17,448]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:20:03,305]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:20:03,323]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.ERROR at 2022-01-22 18:20:03,323]: CV2QrCodeThresholding.execute_recognition_algorithm: Can't open C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\tools\qrcoderecognitiontests\test\data\DSC_1211.jpg
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:20:12,398]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:20:12,413]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.ERROR at 2022-01-22 18:20:12,413]: CV2QrCodeThresholding.execute_recognition_algorithm: Can't open C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\tools\qrcoderecognitiontests\test\data\DSC_1211.jpg
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:20:38,184]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:20:38,199]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.ERROR at 2022-01-22 18:20:38,199]: CV2QrCodeThresholding.execute_recognition_algorithm: Can't open C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\tools\qrcoderecognitiontests\test\data\qr_codes\DSC_1211.jpg
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:21:04,078]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:21:04,078]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.ERROR at 2022-01-22 18:21:04,078]: CV2QrCodeThresholding.execute_recognition_algorithm: Can't open C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\tools\qrcoderecognitiontests\test\data\qr_codes\objects\DSC_1211.jpg
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:23:19,296]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:23:19,296]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.ERROR at 2022-01-22 18:23:19,296]: CV2QrCodeThresholding.execute_recognition_algorithm: Can't open C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\tools\qrcoderecognitiontests\data\qr_codes\objects\DSC_1211.jpg
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 18:23:29,095]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:23:29,196]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 18:23:29,196]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[test_cv2qrcodethresholding.INFO at 2022-01-22 22:33:11,442]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 22:33:11,693]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-01-22 22:33:11,693]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-01-22 22:33:13,576]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-01-22 22:33:13,576]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-01-22 22:33:13,576]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-01-22 22:33:13,576]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-01-22 22:33:13,576]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2022-07-03 00:07:59,608]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-07-03 00:07:59,729]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-07-03 00:07:59,729]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-07-03 00:08:00,997]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-03 00:08:00,997]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-03 00:08:00,997]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-03 00:08:00,997]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-03 00:08:00,998]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2022-07-05 19:36:43,020]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-07-05 19:36:43,135]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-07-05 19:36:43,135]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-07-05 19:36:44,523]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 19:36:44,523]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 19:36:44,523]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 19:36:44,523]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 19:36:44,523]: No sql script to build the file-identifier cache given!
+>[test_cv2qrcodethresholding.INFO at 2022-07-05 22:36:37,430]: Logging....
+>[imagemanipulationstrategy.DEBUG at 2022-07-05 22:36:37,558]: opened code file DSC_1211.jpg
+>[imagemanipulationstrategy.DEBUG at 2022-07-05 22:36:37,558]: no cache image for ['DSC_1211.jpg', 'CV2AdaptiveThresholdManipulation', 'block_size', 63]
+>[sync_config.WARNING at 2022-07-05 22:36:39,051]: No temp_dir configured. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\temp.
+>[sync_config.WARNING at 2022-07-05 22:36:39,051]: No master view configured. Replication cannot operate without.
+>[sync_config.WARNING at 2022-07-05 22:36:39,051]: No cache_dir configured. The cache dir will be cache in the file repository
+>[sync_config.WARNING at 2022-07-05 22:36:39,051]: No custom sync module path defined. Defaulting to C:\notebook_source\urap\server\kiosk\kiosk\sync\sync\custom
+>[sync_config.WARNING at 2022-07-05 22:36:39,051]: No sql script to build the file-identifier cache given!
