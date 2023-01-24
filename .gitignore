@@ -1,0 +1,7 @@
+**/data/*
+*.tif
+*.jpg
+*.nef
+*.pyc
+*.log
+**/__pycache__/*

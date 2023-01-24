@@ -8,6 +8,9 @@ import numpy as np
 
 
 class PillowHistogramEqualization(PillowImageManipulation):
+    def get_parameters(self):
+        return []
+
     import numpy as np
 
     @staticmethod

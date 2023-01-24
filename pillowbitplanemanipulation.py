@@ -7,6 +7,9 @@ import numpy
 
 
 class PillowBitplaneManipulation(PillowImageManipulation):
+    def get_parameters(self):
+        return []
+
     def __init__(self, bitmask: int = 255):
         self.bitmask = bitmask
 

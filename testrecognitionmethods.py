@@ -30,11 +30,11 @@ def init_log():
     # Initialize logging and settings
     logging.basicConfig(format='>[%(module)s.%(levelname)s at %(asctime)s]: %(message)s', level=logging.ERROR)
     logger = logging.getLogger()
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.INFO)
 
     if log_file:
         ch = logging.FileHandler(filename=log_file)
-        ch.setLevel(logging.DEBUG)
+        ch.setLevel(logging.INFO)
         formatter = logging.Formatter('>[%(module)s.%(levelname)s at %(asctime)s]: %(message)s')
         ch.setFormatter(formatter)
         logger.addHandler(ch)
@@ -42,10 +42,16 @@ def init_log():
 
 
 def _report(qrcode_file: str, strategy_name: str, data, success: str):
-    print(f"{datetime.datetime.now()}: {kioskstdlib.get_filename(qrcode_file)}, {strategy_name}, {success}, {data}")
+    if data:
+        line = f"{datetime.datetime.now()}: {kioskstdlib.get_filename(qrcode_file)}, {strategy_name}, {success},{data}"
+    else:
+        line = f"{datetime.datetime.now()}: {kioskstdlib.get_filename(qrcode_file)}, {strategy_name}, {success}"
+
+    if not strategy_name:
+        print(line)
+
     if report_file:
-        report_file.write(
-            f"{datetime.datetime.now()};{kioskstdlib.get_filename(qrcode_file)};{strategy_name};{success};{data}\n")
+        report_file.write(f"{line}\n")
 
 
 def thresholding_strategy():
@@ -84,26 +90,65 @@ def histogram_equalization_strategy():
     qrcode_tester.register_strategy(strategy)
 
 
-def cv2_priority_thresholding():
+def cv2_priority_thresholding_pacha():
     priorities = [
-        (0.5, 63, 0),
-        (0.5, 33, 0),
-        (0.5, 63, 7),
-        (0.3, 63, 0),
-        (0, 33, 0),
-        (0.5, 13, 0),
-        (0.5, 33, 7),
+        (0, 0, 23),
+        (0, 0, 63),
+        (0.5, 0, 23),
+        (0.5, 0, 13),
+        (0.5, 0, 0),
+        (0.5, 0, 63),
+        (0, 0, 13),
+        (0, 0, 33),
+        (0, 0, 43),
+        (0.5, 0, 33),
+        (0.7, 0, 23),
+        (0, 0, 53),
+        (0.5, 0, 53),
+        (0, 3, 63),
+        (0, 3, 43),
+        (0, 3, 13),
     ]
-    for scale_factor, block_size, blur_factor in priorities:
+    for scale_factor, blur_factor, block_size in priorities:
         strategy = CV2ManipulationComposition(
             f"cv2_thresholding_{scale_factor}_{blur_factor}_{block_size}")
         if scale_factor != 0:
             strategy.append_manipulation(CV2ScaleManipulation(scale_factor=scale_factor))
         if blur_factor != 0:
             strategy.append_manipulation(CV2BlurManipulation(blur_factor=blur_factor))
-        strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=1))
-        qrcode_tester.register_strategy(strategy)
+        if block_size != 0:
+            strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=1))
+        if len(strategy.manipulation_list) > 0:
+            qrcode_tester.register_strategy(strategy)
 
+def cv2_priority_thresholding_ustp():
+    priorities = [
+        (0.5, 0, 63),
+        (0, 7, 63),
+        (0.5, 0, 33),
+        (0, 0, 33),
+        (0.5, 7, 63),
+        (0.7, 7, 63),
+        (0.7, 0, 63),
+        (0, 0, 23),
+        (0, 7, 0),
+        (0.5, 7, 33),
+        (0, 0, 63),
+        (0.5, 0, 23),
+        (0.5, 0, 13),
+        (0.5, 0, 0),
+    ]
+    for scale_factor, blur_factor, block_size in priorities:
+        strategy = CV2ManipulationComposition(
+            f"cv2_thresholding_{scale_factor}_{blur_factor}_{block_size}")
+        if scale_factor != 0:
+            strategy.append_manipulation(CV2ScaleManipulation(scale_factor=scale_factor))
+        if blur_factor != 0:
+            strategy.append_manipulation(CV2BlurManipulation(blur_factor=blur_factor))
+        if block_size != 0:
+            strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=1))
+        if len(strategy.manipulation_list) > 0:
+            qrcode_tester.register_strategy(strategy)
 
 def cv2_priority_thresholding_objects():
     priorities = [
@@ -126,32 +171,36 @@ def cv2_priority_thresholding_objects():
 def cv2_thresholding():
     for c in [1]:
         for blur_factor in [0, 7, 5, 3, 9, 11]:
-            for scale_factor in [0.5, 0, 0.3, 0.7]:
-                for block_size in [63, 33, 13, 53, 23, 63, 73]:
+            for scale_factor in [0.5, 0, 0.7]:
+                for block_size in [0, 63, 23, 53, 33, 43, 13, 73]:
                     strategy = CV2ManipulationComposition(
                         f"cv2_thresholding_{scale_factor}_{blur_factor}_{block_size}_{c}")
                     if scale_factor != 0:
                         strategy.append_manipulation(CV2ScaleManipulation(scale_factor=scale_factor))
                     if blur_factor != 0:
                         strategy.append_manipulation(CV2BlurManipulation(blur_factor=blur_factor))
-                    strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=c))
-                    qrcode_tester.register_strategy(strategy)
+                    if block_size != 0:
+                        strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=c))
+                    if len(strategy.manipulation_list) > 0:
+                        qrcode_tester.register_strategy(strategy)
     # strategy.debug = True
 
 
 def cv2_thresholding_isolated():
     for c in [1]:
-        for blur_factor in [0]:
+        for blur_factor in [0, 7]:
             for scale_factor in [0]:
-                for block_size in [33, 31, 27, 25, 23, 21, 17, 13]:
+                for block_size in [0, 63, 61, 59, 57, 55, 53, 51, 49, 47, 45, 43, 41, 39, 37]:
                     strategy = CV2ManipulationComposition(
                         f"cv2_thresholding_{scale_factor}_{blur_factor}_{block_size}_{c}")
                     if scale_factor != 0:
                         strategy.append_manipulation(CV2ScaleManipulation(scale_factor=scale_factor))
                     if blur_factor != 0:
                         strategy.append_manipulation(CV2BlurManipulation(blur_factor=blur_factor))
-                    strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=c))
-                    qrcode_tester.register_strategy(strategy)
+                    if block_size != 0:
+                        strategy.append_manipulation(CV2AdaptiveThresholdManipulation(block_size=block_size, c=c))
+                    if len(strategy.manipulation_list) > 0:
+                        qrcode_tester.register_strategy(strategy)
     # strategy.debug = True
 
 
@@ -161,11 +210,13 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     if len(sys.argv) > 1:
         usage()
-    # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "qr_codes", "objects"))
+    # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "qr_codes"))
     # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "2ndstage"))
-    dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "isolate"))
-    # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data"))
+    # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "isolate"))
+    # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data", "qr_codes", "pacha"))
     # dfs = DirectoryFileSource(os.path.join(test_path, "test", "data","qr_codes","objects"))
+    dfs = DirectoryFileSource(
+        r"E:\summer_projects_2022\ustp\material\photos_for_qr_code_tests\Vacone_Photos_2022-20221007T032728Z-002\Vacone_Photos_2022")
     dst_path = os.path.join(dfs.path_name, kioskstdlib.get_directory_name_from_datetime())
     os.makedirs(dst_path)
     print(f"dest-path: {dst_path}")
@@ -180,17 +231,23 @@ if __name__ == '__main__':
         qrcode_tester.try_original = False
         qrcode_tester.debug_cache = False
 
-        # cv2_thresholding()
+        # histogram_equalization_strategy()
+        # bitplane_strategy()
+        cv2_priority_thresholding_ustp()
+        cv2_thresholding()
         # cv2_thresholding_isolated()
-        # cv2_priority_thresholding()
-        cv2_priority_thresholding_objects()
+        # cv2_priority_thresholding_objects()
 
         print(f"Starting decoding: {datetime.datetime.now()}")
         c_files, c_files_decoded = qrcode_tester.execute(quick_decode=False)
 
     print(f"Decoding done: {datetime.datetime.now()}")
-    print(f"{c_files_decoded} of {c_files} decoded = {c_files_decoded * 100 / c_files} %")
-    print(f"these files were not decoded:")
-    print(qrcode_tester.file_unrecognized)
-    print(f"these strategies worked:")
-    print(qrcode_tester.successful_strategies)
+    if c_files:
+        print(f"{c_files_decoded} of {c_files} decoded = {c_files_decoded * 100 / c_files} %")
+        print(f"these files were not decoded:")
+        print(qrcode_tester.file_unrecognized)
+        print(f"these strategies worked:")
+        print(qrcode_tester.successful_strategies)
+        print(f"Please remove path '{dst_path}'!")
+    else:
+        print("There were no files.")
